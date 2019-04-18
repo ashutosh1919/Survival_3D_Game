@@ -13,3 +13,5 @@ Player has 6 different weapons to kill enemies.
 
 I have also displayed the health and stamina of the player during the game.
 You can see the demo as below.
+
+![GIF DEMO OF GAME](https://github.com/ashutosh1919/Survival_3D_Game/blob/master/survival.gif)
